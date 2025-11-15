@@ -28,7 +28,7 @@ A browser-based version of YAP with:
 - Progress tracking
 - Account sync across devices
 
-Web App: https://yapapp.io  
+Web App: https://beta.yapapp.io  
 Website: https://goyap.ai
 
 ---
@@ -55,3 +55,4 @@ X (Twitter): https://twitter.com/YAP2Learn
 ## Repository Structure
 Most development repositories are private while the platform is under active construction.  
 Public documentation, SDKs, and integration tools will be published as the product expands.
+
